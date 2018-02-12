@@ -1,1 +1,4 @@
-123123123
+function get_wow(){
+return "true";
+
+}
